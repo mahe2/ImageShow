@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="circle_image_view">
+        <attr name="radius" format="float" />
+        <attr name="circle_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="refresh_layout">
+        <attr name="target" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 用于PullToRefreshLayout中的recyclerView -->
+    <item type="id" name="refresh_layout_table" />
+
+    <!-- 用于BannerLayout -->
+    <item type="id" name="banner_layout_pager"/>
+    <item type="id" name="banner_layout_point" />
+
+    <!-- 用于toolbar -->
+    <item type="id" name="layout_toolbar" />
+    <item type="id" name="layout_collapsing_toolbar" />
+
+    <item type="id" name="stub_network_error" />
+</resources>

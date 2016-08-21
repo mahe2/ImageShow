@@ -1,0 +1,110 @@
+[
+  {
+    "tid": 1,
+    "name": "影视明星",
+    "icon": "http://s.qdcdn.com/cl/10294471,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=1"
+  },
+  {
+    "tid": 2,
+    "name": "风光风景",
+    "icon": "http://s.qdcdn.com/cl/12799427,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=2"
+  },
+  {
+    "tid": 4,
+    "name": "花卉植物",
+    "icon": "http://s.qdcdn.com/cl/14049033,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=4"
+  },
+  {
+    "tid": 3,
+    "name": "魅力女性",
+    "icon": "http://s.qdcdn.com/cl/13353375,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=3"
+  },
+  {
+    "tid": 6,
+    "name": "游戏CG",
+    "icon": "http://s.qdcdn.com/cl/11339828,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=6"
+  },
+  {
+    "tid": 5,
+    "name": "动物宠物",
+    "icon": "http://s.qdcdn.com/cl/12431245,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=5"
+  },
+  {
+    "tid": 7,
+    "name": "卡通动漫",
+    "icon": "http://s.qdcdn.com/cl/11339880,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=7"
+  },
+  {
+    "tid": 798,
+    "name": "机车世界",
+    "icon": "http://s.qdcdn.com/cl/12422380,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=798"
+  },
+  {
+    "tid": 2098,
+    "name": "炫彩美图",
+    "icon": "http://s.qdcdn.com/cl/13347074,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=2098"
+  },
+  {
+    "tid": 10,
+    "name": "品牌欣赏",
+    "icon": "http://s.qdcdn.com/cl/13328626,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=10"
+  },
+  {
+    "tid": 1546,
+    "name": "美食天下",
+    "icon": "http://s.qdcdn.com/cl/11337788,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=1546"
+  },
+  {
+    "tid": 797,
+    "name": "影视剧集",
+    "icon": "http://s.qdcdn.com/cl/14031478,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=797"
+  },
+  {
+    "tid": 21866,
+    "name": "美丽文字",
+    "icon": "http://s.qdcdn.com/cl/12410201,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=21866"
+  },
+  {
+    "tid": 1554,
+    "name": "体育运动",
+    "icon": "http://s.qdcdn.com/cl/13348685,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=1554"
+  },
+  {
+    "tid": 1407,
+    "name": "艺术设计",
+    "icon": "http://s.qdcdn.com/cl/10296557,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=1407"
+  },
+  {
+    "tid": 8,
+    "name": "节庆假日",
+    "icon": "http://s.qdcdn.com/cl/13414639,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=8"
+  },
+  {
+    "tid": 2180,
+    "name": "军事战争",
+    "icon": "http://s.qdcdn.com/cl/14054161,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=2180"
+  },
+  {
+    "tid": 2097,
+    "name": "美图杂烩",
+    "icon": "http://s.qdcdn.com/cl/12442887,480,480.webp",
+    "url": "http://api.lovebizhi.com/android_v3.php?a=category&spdy=1&device=random&uuid=random&mode=2&client_id=1001&device_id=0&model_id=100&size_id=0&channel_id=26&screen_width={0}&screen_height={1}&bizhi_width={2}&bizhi_height={3}&version_code=75&language=zh-CN&mac=&original=0&tid=2097"
+  }
+]
